@@ -12,6 +12,6 @@
 * [Amirul Zolkefli](https://groups.google.com/forum/#!topic/thor-opensource-3d-printable-robotic-arm/nP2nNkQmiz8): In progress
 * [Bricolabs](https://groups.google.com/forum/#!topic/thor-opensource-3d-printable-robotic-arm/sKvLtJVzP-s): In progress
 * [Wilmer Gaona](https://groups.google.com/forum/#!topic/thor-opensource-3d-printable-robotic-arm/FDOUjNPFvQQ): In progress
-
+* [cotu®](http://www.co-tu.com/): In progress (printed, postprocessed to smoth surface)
 
 If you are making your own Thor or already did, do not hesitate on edit this file and include yourself as a Thor Builder!
